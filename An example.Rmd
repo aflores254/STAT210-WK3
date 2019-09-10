@@ -2,12 +2,15 @@
 title: "An example RMarkdown"
 author: "Armando F"
 date: "9/10/2019"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+
+**This is an R Notebook.** You can use it to take notes and run code. For example, you can write your name on the line below. _Try it_:
 
 ## R Markdown
 
